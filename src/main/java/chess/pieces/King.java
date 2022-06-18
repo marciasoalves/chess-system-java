@@ -10,7 +10,8 @@ public class King extends ChessPiece {
     }
 
     @Override
-    public String ToString(){
+    public String toString(){
+
         return "K";
     }
 }
